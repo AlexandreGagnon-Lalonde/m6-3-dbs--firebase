@@ -71,7 +71,7 @@ Firebase provides us with some methods that we can call to trigger `Signin` and 
 
 Users can now sign in with Google!
 
-Google provides us with information on a user once they sign in. In order, ot access it we need to receive it as props. Let's do that and then console.log it. We'll do this inside of a `useEffect` because chances are that we'll have to wait for that data to be available.
+Google provides us with information on a user once they sign in. In order, to access it we need to receive it as props. Let's do that and then console.log it. We'll do this inside of a `useEffect` because chances are that we'll have to wait for that data to be available.
 
 6. Add `user` and console the contents.
 
